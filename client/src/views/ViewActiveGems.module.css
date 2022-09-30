@@ -1,0 +1,22 @@
+
+
+.main{
+    display: flex;
+    padding: 20px;
+}
+
+.main > *:first-child{
+    margin-right: 10px;
+}
+
+.main > *:last-child{
+    flex: 1;
+    margin-left: 10px;
+}
+
+.gemGroupContainer > *{
+    margin-top: 20px;
+}
+.gemGroupContainer > *:first-child{
+    margin-top: 0px;
+}

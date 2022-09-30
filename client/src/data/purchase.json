@@ -1,0 +1,18 @@
+{
+    "Fireball": {
+        "purchase": {
+            "scaled_purchase_when": 2,
+            "scaled_purchase_classes": [
+                "Witch",
+                "Scion",
+                "Templar",
+                "Shadow"
+            ],
+            "unscaled_siosa": true,
+            "unscaled_lilly": true
+        },
+        "weapon_restrictions": {
+
+        }
+    }
+}

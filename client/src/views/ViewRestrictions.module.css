@@ -1,0 +1,17 @@
+.ViewRestrictions {
+    padding: 20px;
+    display: flex;
+}
+
+.ViewRestrictions>* {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.ViewRestrictions>*:first-child{
+    margin-left:0;
+}
+
+.ViewRestrictions>*:last-child{
+    margin-right:0;
+}

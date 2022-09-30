@@ -1,0 +1,10 @@
+.BoxLabel{
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+    background-color:lightsteelblue;
+}
+
+.BoxLabel > h3{
+    margin: 0;
+}

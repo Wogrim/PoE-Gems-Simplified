@@ -1,0 +1,18 @@
+.restrictions{
+    display:flex;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.restrictions > *{
+    flex: 1;
+    margin: 0 10px;
+}
+
+.restrictions>*:first-child{
+    margin-left:0;
+}
+
+.restrictions>*:last-child{
+    margin-right:0;
+}

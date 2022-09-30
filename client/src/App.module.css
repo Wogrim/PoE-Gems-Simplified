@@ -1,0 +1,10 @@
+.App {
+  display:flex;
+  height: 100vh;
+  background-color: bisque;
+}
+
+.App > * {
+  flex: 1;
+  height: 100%;
+}

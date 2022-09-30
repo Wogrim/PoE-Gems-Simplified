@@ -1,0 +1,18 @@
+.NavBar{
+    padding: 20px;
+    padding-bottom: 0;
+    display:flex;
+}
+
+.NavBar > button{
+    flex: 1;
+    padding: 5px 10px;
+    font-size: 2em;
+    font-weight: bold;
+    border: 3px solid black;
+    background-color: rgb(201, 202, 232);
+}
+
+button.active{
+    background-color:rgb(253, 188, 162);
+}
